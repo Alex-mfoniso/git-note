@@ -1,4 +1,4 @@
-giversion control is a tool that allow you to keep track of all changes in the project      
+git version control is a tool that allow you to keep track of all changes in the project      
 
 git commands
 
