@@ -53,6 +53,9 @@ git add .
 to move to a local repository
 git commit -m"this should contain ur message"
 
+to bypass ur stageing area straight to ur local repository you use 
+git commit -am "your commit message"
+
 to move to a remote repository
 git push
 	
