@@ -141,6 +141,9 @@ git checkout yellow-website
 to create and switch to d same branch
  git checkout -b "pink-website"
 
+ to go back to the master
+ git checkout master
+
 
 
 git arictectture
